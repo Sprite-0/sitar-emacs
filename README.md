@@ -3,22 +3,20 @@
 A lightweight major mode providing syntax highlighting for the Sitar simulation framework (https://github.com/sitar-sim/sitar).
 The Sitar framework was originally developed by Dr. Neha Karanjkar.
 
-## Screenshot
-
 <img width="615" height="704" alt="image" src="https://github.com/user-attachments/assets/3c036e0d-022a-4cd3-a5de-594be6fcffe1" />
 
 ## Features
 
-This file provides native Emacs syntax highlighting for:
+The file provides Emacs syntax highlighting for:
 * **Main Keywords:** `module`, `procedure`, `parameter`, `behavior`
-* **Behavioral Keywords:** `wait`, `until`, `if`, `then`, `else`, `do`, `while`, `nothing`, `stop`, `simulation`, `run`, `end`
-* **Structural Keywords:** `inport`, `outport`, `buffer`, `net`, `submodule`, `width`, `capacity`, etc.
-* **Code Snippets:** Highlighting for `include`, `decl`, `init`, and inline code blocks (`$...$`)
+* **Behavioral Keywords:** `wait`, `until`, `if`, `then`, `else`, `do`, `while`, `stop`, `simulation`, `run`, `end`
+* **Structural Keywords:** `inport`, `outport`, `net`, `submodule`, `width`, `capacity`, etc.
+* **Code Snippets:** Highlighting for `include`, `decl`, `init`, and code blocks (`$...$`)
 * **Comments:** Standard `//` comments
 
 ## Prerequisites
 
-Sitar V2.0
+Sitar v2.0
 
 ## Installation
 
